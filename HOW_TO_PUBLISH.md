@@ -76,7 +76,7 @@ git add .
 git commit -m "Initial release: Better Auth Next.js Plugin v1.0.0"
 
 # Add remote (replace YOUR-USERNAME)
-git remote add origin https://github.com/YOUR-USERNAME/claude-better-auth-skill.git
+git remote add origin https://github.com/bashiraziz/claude-better-auth-skill.git
 
 # Push
 git push -u origin main
